@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a simple REST API using FastAPI and learn to create endpoints, models, and local server testing.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "dueDate": "2026-08-02"
     }
   ]
 }
